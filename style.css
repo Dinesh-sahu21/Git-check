@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.my-h1 {
+  color: blue;
+  font-size: 2em;
+  text-align: center;
+}
+
+#my-h3 {
+  color: green;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.my-h2,
+p {
+  color: red;
+  font-size: 1.2em;
+  text-align: center;
+}
